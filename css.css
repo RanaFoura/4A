@@ -1,0 +1,7 @@
+@charset "utf-8";
+body {
+    background-image: url("assets/building.jpg");
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
